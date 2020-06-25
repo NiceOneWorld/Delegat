@@ -1,0 +1,13 @@
+C:\Users\vlady\OneDrive\Рабочий стол\string\Delegat\Delegat\bin\Debug\netcoreapp3.1\Delegat.exe
+C:\Users\vlady\OneDrive\Рабочий стол\string\Delegat\Delegat\bin\Debug\netcoreapp3.1\Delegat.deps.json
+C:\Users\vlady\OneDrive\Рабочий стол\string\Delegat\Delegat\bin\Debug\netcoreapp3.1\Delegat.runtimeconfig.json
+C:\Users\vlady\OneDrive\Рабочий стол\string\Delegat\Delegat\bin\Debug\netcoreapp3.1\Delegat.runtimeconfig.dev.json
+C:\Users\vlady\OneDrive\Рабочий стол\string\Delegat\Delegat\bin\Debug\netcoreapp3.1\Delegat.dll
+C:\Users\vlady\OneDrive\Рабочий стол\string\Delegat\Delegat\bin\Debug\netcoreapp3.1\Delegat.pdb
+C:\Users\vlady\OneDrive\Рабочий стол\string\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.csprojAssemblyReference.cache
+C:\Users\vlady\OneDrive\Рабочий стол\string\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.csproj.CoreCompileInputs.cache
+C:\Users\vlady\OneDrive\Рабочий стол\string\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.AssemblyInfoInputs.cache
+C:\Users\vlady\OneDrive\Рабочий стол\string\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.AssemblyInfo.cs
+C:\Users\vlady\OneDrive\Рабочий стол\string\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.dll
+C:\Users\vlady\OneDrive\Рабочий стол\string\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.pdb
+C:\Users\vlady\OneDrive\Рабочий стол\string\Delegat\Delegat\obj\Debug\netcoreapp3.1\Delegat.genruntimeconfig.cache
